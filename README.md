@@ -37,7 +37,7 @@
 
 ### 🔐 Step 2: Get Your Session ID
 
-Authenticate using **one** of the methods below to generate your `Session ID`.
+Authenticate using **one** of the methods below to generate your `Session ID`.drakonis~g7URwDrR#JqhVuXJK7v1qGpP9g3CdmFFN_xkyal_UnxpnYtG0GME
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" alt="Authentication Flow Preview" />
